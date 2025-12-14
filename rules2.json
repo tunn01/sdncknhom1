@@ -1,0 +1,11 @@
+[
+    {"id": 1, "src_ip": "10.0.0.2", "action": "DENY"},
+    {"id": 2, "src_ip": "10.0.0.3", "action": "DENY"},
+    {"id": 3, "src_ip": "10.0.0.4", "action": "DENY"},
+    {"id": 4, "src_ip": "10.0.0.5", "action": "DENY"},
+    {"id": 5, "src_ip": "10.0.0.6", "action": "DENY"},
+    {"id": 6, "src_ip": "10.0.0.7", "action": "DENY"},
+    {"id": 7, "src_ip": "10.0.0.8", "action": "DENY"},
+    {"id": 8, "src_ip": "10.0.0.9", "action": "DENY"},
+    {"id": 9, "src_ip": "10.0.0.10", "action": "DENY"}
+]

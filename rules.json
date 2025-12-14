@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "src_ip": "10.0.0.2", 
+        "action": "DENY", 
+        "desc": "Chặn máy h2 vì đã biết là kẻ xấu"
+    },
+    {
+        "id": 2,
+        "src_ip": "10.0.0.3",
+        "action": "DENY",
+        "desc": "Chặn máy h3 vì đã biết là kẻ xấu"
+    }
+]
